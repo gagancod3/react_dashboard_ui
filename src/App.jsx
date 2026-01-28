@@ -5,13 +5,14 @@ import Search from "./pages/Search.jsx";
 import Home from "./pages/Home.jsx";
 import Analytics from "./pages/Analytics.jsx";
 import Layout from "./components/Layout.jsx";
-
+// import Login from "./pages/Login.jsx";
 function App() {
   return (
     <>
       <BrowserRouter>
       <Layout />
         <Routes>
+          {/* <Route path="/login" element={<Login />} /> */}
           <Route path="/" element={<Layout />}>
             <Route index path="/" element={<Home />} />
             {/* <Route path="/" element={<Home />} /> */}

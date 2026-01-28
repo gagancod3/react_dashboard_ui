@@ -1,0 +1,58 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "category": "Electronics",
+      "region": "North",
+      "year": 2023,
+      "product": "Laptop",
+      "sales": 120,
+      "revenue": 240000
+    },
+    {
+      "id": 2,
+      "category": "Electronics",
+      "region": "South",
+      "year": 2023,
+      "product": "Mobile",
+      "sales": 200,
+      "revenue": 300000
+    },
+    {
+      "id": 3,
+      "category": "Furniture",
+      "region": "North",
+      "year": 2024,
+      "product": "Chair",
+      "sales": 150,
+      "revenue": 180000
+    },
+    {
+      "id": 4,
+      "category": "Furniture",
+      "region": "West",
+      "year": 2023,
+      "product": "Table",
+      "sales": 90,
+      "revenue": 135000
+    },
+    {
+      "id": 5,
+      "category": "Electronics",
+      "region": "West",
+      "year": 2024,
+      "product": "Laptop",
+      "sales": 80,
+      "revenue": 160000
+    },
+    {
+      "id": 6,
+      "category": "Furniture",
+      "region": "South",
+      "year": 2024,
+      "product": "Sofa",
+      "sales": 60,
+      "revenue": 210000
+    }
+  ]
+}
