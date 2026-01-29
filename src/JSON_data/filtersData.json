@@ -1,0 +1,34 @@
+[
+  {
+    "companyId": "c1",
+    "companyName": "Apollo Hospitals",
+    "states": [
+      {
+        "stateId": "s1",
+        "stateName": "Maharashtra",
+        "programs": ["Cardiology", "Oncology", "Neurology"]
+      },
+      {
+        "stateId": "s2",
+        "stateName": "Karnataka",
+        "programs": ["Orthopedics", "Pediatrics"]
+      }
+    ]
+  },
+  {
+    "companyId": "c2",
+    "companyName": "Fortis Healthcare",
+    "states": [
+      {
+        "stateId": "s3",
+        "stateName": "Delhi",
+        "programs": ["Cardiology", "Nephrology"]
+      },
+      {
+        "stateId": "s4",
+        "stateName": "Tamil Nadu",
+        "programs": ["Oncology", "ENT"]
+      }
+    ]
+  }
+]

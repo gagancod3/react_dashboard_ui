@@ -1,0 +1,136 @@
+[
+  {
+    "id": "001",
+    "companyId": "c1",
+    "companyName": "Apollo Hospitals",
+    "stateId": "s1",
+    "stateName": "Maharashtra",
+    "program": "Cardiology",
+    "rows": [
+      { "quarter": "Q4 FY25", "isCurrent": true, "currentQuarterSales": 12500000, "currentQuarterRebate": 750000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 620000, "companyAccrual": 800000, "overUnderAccrual": -50000 },
+      { "quarter": "Q3 FY25", "isCurrent": false, "currentQuarterSales": 11800000, "currentQuarterRebate": 700000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 580000 },
+      { "quarter": "Q2 FY25", "isCurrent": false, "currentQuarterSales": 11000000, "currentQuarterRebate": 660000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 540000 },
+      { "quarter": "Q1 FY25", "isCurrent": false, "currentQuarterSales": 10500000, "currentQuarterRebate": 620000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 500000 }
+    ]
+  },
+
+  {
+    "id": "002",
+    "companyId": "c1",
+    "companyName": "Apollo Hospitals",
+    "stateId": "s1",
+    "stateName": "Maharashtra",
+    "program": "Oncology",
+    "rows": [
+      { "quarter": "Q4 FY25", "isCurrent": true, "currentQuarterSales": 9800000, "currentQuarterRebate": 620000, "currentQuarterRAR": 6.3, "priorQuarterRebate": 500000, "companyAccrual": 650000, "overUnderAccrual": 30000 },
+      { "quarter": "Q3 FY25", "isCurrent": false, "currentQuarterSales": 9400000, "currentQuarterRebate": 590000, "currentQuarterRAR": 6.2, "priorQuarterRebate": 480000 },
+      { "quarter": "Q2 FY25", "isCurrent": false, "currentQuarterSales": 9000000, "currentQuarterRebate": 560000, "currentQuarterRAR": 6.2, "priorQuarterRebate": 460000 },
+      { "quarter": "Q1 FY25", "isCurrent": false, "currentQuarterSales": 8700000, "currentQuarterRebate": 540000, "currentQuarterRAR": 6.1, "priorQuarterRebate": 440000 }
+    ]
+  },
+
+  {
+    "id": "003",
+    "companyId": "c1",
+    "companyName": "Apollo Hospitals",
+    "stateId": "s1",
+    "stateName": "Maharashtra",
+    "program": "Neurology",
+    "rows": [
+      { "quarter": "Q4 FY25", "isCurrent": true, "currentQuarterSales": 7200000, "currentQuarterRebate": 430000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 380000, "companyAccrual": 450000, "overUnderAccrual": -20000 },
+      { "quarter": "Q3 FY25", "isCurrent": false, "currentQuarterSales": 6900000, "currentQuarterRebate": 410000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 360000 },
+      { "quarter": "Q2 FY25", "isCurrent": false, "currentQuarterSales": 6600000, "currentQuarterRebate": 395000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 340000 },
+      { "quarter": "Q1 FY25", "isCurrent": false, "currentQuarterSales": 6300000, "currentQuarterRebate": 370000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 320000 }
+    ]
+  },
+
+  {
+    "id": "004",
+    "companyId": "c1",
+    "companyName": "Apollo Hospitals",
+    "stateId": "s2",
+    "stateName": "Karnataka",
+    "program": "Orthopedics",
+    "rows": [
+      { "quarter": "Q4 FY25", "isCurrent": true, "currentQuarterSales": 8600000, "currentQuarterRebate": 510000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 460000, "companyAccrual": 520000, "overUnderAccrual": -10000 },
+      { "quarter": "Q3 FY25", "isCurrent": false, "currentQuarterSales": 8300000, "currentQuarterRebate": 490000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 440000 },
+      { "quarter": "Q2 FY25", "isCurrent": false, "currentQuarterSales": 8000000, "currentQuarterRebate": 470000, "currentQuarterRAR": 5.8, "priorQuarterRebate": 420000 },
+      { "quarter": "Q1 FY25", "isCurrent": false, "currentQuarterSales": 7700000, "currentQuarterRebate": 450000, "currentQuarterRAR": 5.8, "priorQuarterRebate": 400000 }
+    ]
+  },
+
+  {
+    "id": "005",
+    "companyId": "c1",
+    "companyName": "Apollo Hospitals",
+    "stateId": "s2",
+    "stateName": "Karnataka",
+    "program": "Pediatrics",
+    "rows": [
+      { "quarter": "Q4 FY25", "isCurrent": true, "currentQuarterSales": 5400000, "currentQuarterRebate": 320000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 280000, "companyAccrual": 300000, "overUnderAccrual": 20000 },
+      { "quarter": "Q3 FY25", "isCurrent": false, "currentQuarterSales": 5200000, "currentQuarterRebate": 305000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 260000 },
+      { "quarter": "Q2 FY25", "isCurrent": false, "currentQuarterSales": 5000000, "currentQuarterRebate": 290000, "currentQuarterRAR": 5.8, "priorQuarterRebate": 240000 },
+      { "quarter": "Q1 FY25", "isCurrent": false, "currentQuarterSales": 4800000, "currentQuarterRebate": 275000, "currentQuarterRAR": 5.7, "priorQuarterRebate": 220000 }
+    ]
+  },
+
+  {
+    "id": "006",
+    "companyId": "c2",
+    "companyName": "Fortis Healthcare",
+    "stateId": "s3",
+    "stateName": "Delhi",
+    "program": "Cardiology",
+    "rows": [
+      { "quarter": "Q4 FY25", "isCurrent": true, "currentQuarterSales": 10100000, "currentQuarterRebate": 610000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 530000, "companyAccrual": 630000, "overUnderAccrual": -20000 },
+      { "quarter": "Q3 FY25", "isCurrent": false, "currentQuarterSales": 9700000, "currentQuarterRebate": 585000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 510000 },
+      { "quarter": "Q2 FY25", "isCurrent": false, "currentQuarterSales": 9400000, "currentQuarterRebate": 560000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 490000 },
+      { "quarter": "Q1 FY25", "isCurrent": false, "currentQuarterSales": 9100000, "currentQuarterRebate": 535000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 470000 }
+    ]
+  },
+
+  {
+    "id": "007",
+    "companyId": "c2",
+    "companyName": "Fortis Healthcare",
+    "stateId": "s3",
+    "stateName": "Delhi",
+    "program": "Nephrology",
+    "rows": [
+      { "quarter": "Q4 FY25", "isCurrent": true, "currentQuarterSales": 6700000, "currentQuarterRebate": 400000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 350000, "companyAccrual": 420000, "overUnderAccrual": 15000 },
+      { "quarter": "Q3 FY25", "isCurrent": false, "currentQuarterSales": 6450000, "currentQuarterRebate": 385000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 330000 },
+      { "quarter": "Q2 FY25", "isCurrent": false, "currentQuarterSales": 6200000, "currentQuarterRebate": 370000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 310000 },
+      { "quarter": "Q1 FY25", "isCurrent": false, "currentQuarterSales": 5950000, "currentQuarterRebate": 355000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 290000 }
+    ]
+  },
+
+  {
+    "id": "008",
+    "companyId": "c2",
+    "companyName": "Fortis Healthcare",
+    "stateId": "s4",
+    "stateName": "Tamil Nadu",
+    "program": "Oncology",
+    "rows": [
+      { "quarter": "Q4 FY25", "isCurrent": true, "currentQuarterSales": 8800000, "currentQuarterRebate": 530000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 470000, "companyAccrual": 550000, "overUnderAccrual": -10000 },
+      { "quarter": "Q3 FY25", "isCurrent": false, "currentQuarterSales": 8500000, "currentQuarterRebate": 510000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 450000 },
+      { "quarter": "Q2 FY25", "isCurrent": false, "currentQuarterSales": 8200000, "currentQuarterRebate": 490000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 430000 },
+      { "quarter": "Q1 FY25", "isCurrent": false, "currentQuarterSales": 7900000, "currentQuarterRebate": 470000, "currentQuarterRAR": 5.9, "priorQuarterRebate": 410000 }
+    ]
+  },
+
+  {
+    "id": "009",
+    "companyId": "c2",
+    "companyName": "Fortis Healthcare",
+    "stateId": "s4",
+    "stateName": "Tamil Nadu",
+    "program": "ENT",
+    "rows": [
+      { "quarter": "Q4 FY25", "isCurrent": true, "currentQuarterSales": 4500000, "currentQuarterRebate": 270000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 230000, "companyAccrual": 280000, "overUnderAccrual": 10000 },
+      { "quarter": "Q3 FY25", "isCurrent": false, "currentQuarterSales": 4300000, "currentQuarterRebate": 260000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 220000 },
+      { "quarter": "Q2 FY25", "isCurrent": false, "currentQuarterSales": 4100000, "currentQuarterRebate": 250000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 210000 },
+      { "quarter": "Q1 FY25", "isCurrent": false, "currentQuarterSales": 3900000, "currentQuarterRebate": 240000, "currentQuarterRAR": 6.0, "priorQuarterRebate": 200000 }
+    ]
+  }
+]

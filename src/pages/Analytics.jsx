@@ -7,7 +7,7 @@ export default function Analytics() {
     <>
     <Box sx={{ display: "flex" }}>
     <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
-    <h1>Settings Page</h1>
+    <h1>Analytics Page</h1>
         <Typography sx={{ marginBottom: 2 }}>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod
